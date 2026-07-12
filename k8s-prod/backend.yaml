@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ybhavithr/backend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: ybhavithr/backend:a14d2992973f48dee1064b5b9d0b74b42e149b25
           ports:
             - containerPort: 5000
           env:
